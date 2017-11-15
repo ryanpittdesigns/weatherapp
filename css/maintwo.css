@@ -1,0 +1,83 @@
+body, html{
+	padding: 1%;
+	height: 100%;
+	width: auto;
+	color: white;
+	font-family: 'Comfortaa', cursive;
+}
+body{
+	background-image: url("../img/blueback2.jpg");
+	background-size: cover no-repeat;
+}
+.right{
+	max-height: 100px;
+}
+.right,.left{
+	width:33%;
+	float:left;
+}
+.left h2,h3,h4,h5{
+	font-size:12px;
+	text-align: right;
+}
+h1{
+	font-size:18px;
+	padding-top: 18%;
+	padding-left:5%;
+}
+h5{
+	color: gray;
+}
+.icon{
+	position: relative;
+	bottom:6rem;
+	right:13%;
+}
+.pagetwo p{
+	color: white;
+	font-size: 16px;
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+a{
+    color: white;  
+    text-decoration: none;
+}
+/*h1,p,h2,h3,h4,h5{
+	font-family: 'Comfortaa', cursive;
+	text-transform: uppercase;
+	position: absolute;
+	transform: translateX(-50%);
+	font-size:14px;
+}
+h1{
+	bottom: 35.5rem;
+	left: 12%;
+}
+h2{
+	bottom: 32rem;
+	right: 8%;
+}
+h3{
+	bottom: 33rem;
+	right: 3%;
+}
+h4{
+	bottom: 34rem;
+	right: 17.6%;
+}
+h5{
+	bottom: 35rem;
+	right: 3%;
+}
+p{
+	right:45%;
+	bottom: 31rem;
+}
+
+
+*/
+
+

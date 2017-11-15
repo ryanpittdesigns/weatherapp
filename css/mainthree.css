@@ -1,0 +1,23 @@
+html, #weather{
+	width: 100%
+}
+body{
+	background-image: url("../img/main.jpg");
+    background-size: 500px 800px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top:10px;
+}
+
+a{
+	font-family: 'Comfortaa', cursive;
+	font-size:72px;
+	color: white;  
+    text-decoration: none;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	text-align: center;
+}
